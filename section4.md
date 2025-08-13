@@ -3,8 +3,8 @@
 ## Topics Discussed
 
 - **a.) AWS Cloud Clubs**
-      - It is a student-led community for learning and building skills in AWS cloud technologies.
-      - Hands on workshops and study sessions.
+  - It is a student-led community for learning and building skills in AWS cloud technologies.
+  - Hands on workshops and study sessions.
 
 - **b.) CS Guild**
       - Focused on collaboration, innovation, and skill development through projects, training, and competitions.
