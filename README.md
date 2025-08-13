@@ -1,19 +1,19 @@
-## Opening Remarks and Overview 
+# GA Summary – Group 3
 
-For this section, we have been introduced to the officers.
+This repository contains our summarized notes from the General Assembly.  
+Each section was prepared by a different group member.
 
-## Student Concerns and Feedback
+## Sections
+- [Section 1: Introduction of Officers](section1.md)
+- [Section 2: Student Concerns (SRA Retention)](section2.md)
+- [Section 3: CCS Week & Activities](section3.md)
+- [Section 4: Clubs & Organizations](section4.md)
+- [Section 5: Open Forum](section5.md)
 
-For this section, student concerns such as the SRA retention has been discused. A letter may be passed to the higher administration for consideration.
+## Group Members
+- Madera – Section 1 & 3
+- Artiaga  – Section 2 & 5
+- San Juan – Section 4 
 
-## Faculty Announcements and Updates
-    
-For this section, we will now have Triple A or Ateneo Arts and Algorithms instead of LAAD, There will be a booth for the Orgs Fest, BITS volunteers have been acknowledged and the year level representatives application are now open, MAGIS TBI startup applications are open, merch will be released again soon, and we have been encouraged to join the intramurals.
 
-## Department Initiatives and Projects
-
-For this section,
-
-## Closing Remarks and Next Steps
-
-For this section,
+*Note:* This summary is based on notes taken during the GA and may not include every detail discussed.
