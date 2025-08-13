@@ -1,4 +1,4 @@
-# Faculty Announcements and Updates
+# Section 3 - Faculty Announcements and Updates
 
 ## Topics Discussed
 
